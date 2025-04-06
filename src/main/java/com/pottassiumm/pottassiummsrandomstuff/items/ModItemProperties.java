@@ -24,4 +24,8 @@ public class ModItemProperties{
 
     public static final FoodProperties GOLDEN_SWEET_BERRIES = new FoodProperties.Builder()
             .effect(()-> new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 1200, 1),1f).build();
+
+    public static final FoodProperties GOLDEN_HONEY = new FoodProperties.Builder()
+            .effect(()-> new MobEffectInstance(MobEffects.JUMP,600, 2),2)
+            .effect(()-> new MobEffectInstance(MobEffects.MOVEMENT_SLOWDOWN,600, 1),1).build();
 }

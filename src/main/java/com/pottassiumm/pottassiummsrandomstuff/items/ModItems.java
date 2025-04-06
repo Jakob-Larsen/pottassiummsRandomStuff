@@ -22,8 +22,7 @@ public class ModItems {
 
     public static final DeferredItem<Item> GOLDEN_SWEET_BERRIES = ITEMS.register("golden_sweet_berries", () -> new Item(new Item.Properties().food(ModItemProperties.GOLDEN_SWEET_BERRIES)));
 
-    // Yet to add function
-    public static final DeferredItem<Item> GOLDEN_HONEY = ITEMS.register("golden_honey", () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> GOLDEN_HONEY = ITEMS.register("golden_honey", () -> new Item(new Item.Properties().food(ModItemProperties.GOLDEN_HONEY)));
 
     public static void registerItems(IEventBus eventBus) {
         ITEMS.register(eventBus);
