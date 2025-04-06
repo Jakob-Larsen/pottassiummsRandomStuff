@@ -39,6 +39,11 @@ public class PottassiummsRandomStuff {
         if(event.getTabKey() == CreativeModeTabs.SEARCH){
             event.accept(ModItems.GOLDEN_POTATO);
             event.accept(ModItems.COOKED_GOLDEN_POTATO);
+            event.accept(ModItems.GOLDEN_SWEET_BERRIES);
+            event.accept(ModItems.GOLDEN_HONEY);
+            event.accept(ModItems.GOLDEN_BEETROOT);
+            event.accept(ModItems.GOLDEN_BREAD);
+            event.accept(ModItems.GOLDEN_GLOW_BERRIES);
         }
     }
 

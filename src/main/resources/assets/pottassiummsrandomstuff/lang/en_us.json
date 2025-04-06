@@ -1,5 +1,10 @@
 {
   "itemGroup.pottassiummsrandomstuff": "Example Mod Tab",
   "item.pottassiummsrandomstuff.golden_potato": "Golden Potato",
-  "item.pottassiummsrandomstuff.cooked_golden_potato": "Cooked Golden Potato"
+  "item.pottassiummsrandomstuff.cooked_golden_potato": "Cooked Golden Potato",
+  "item.pottassiummsrandomstuff.golden_beetroot" : "Golden Beetroot",
+  "item.pottassiummsrandomstuff.golden_bread" : "Golden Bread",
+  "item.pottassiummsrandomstuff.golden_glow_berries" : "Golden Glow Berries",
+  "item.pottassiummsrandomstuff.golden_honey" : "Golden Honey",
+  "item.pottassiummsrandomstuff.golden_sweet_berries" : "Golden Sweet Berries"
 }
