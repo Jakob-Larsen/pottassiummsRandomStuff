@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "gHg",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "H": {
+            "item": "minecraft:honey_bottle"
+        }
+    },
+    "result": {
+        "id" : "pottassiummsrandomstuff:golden_honey",
+        "count": 1
+    }
+}
